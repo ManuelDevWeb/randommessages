@@ -1,0 +1,34 @@
+1. Crear la carpeta random-messages
+
+2. Ejecutar: git init
+
+3. Ejecutar: npm init
+
+4. Crear el archivo: src/index.js
+
+5. Crear el archivo: bin/global.js
+
+6. Agregar en el package.json: "bin": {
+                                    "random-msg": "./bin/global.js"
+                                },
+                                "preferGlobal": true
+
+7. Ejecutar: npm link
+
+8. Ejecutar: random-msg
+
+9. Ejecutar: npm adduser
+
+10. Ejecutar: npm publish
+
+11. Crear el archivo README.md
+
+12. Vincular a un repositorio de git
+
+13. Ejecutar: npm init
+
+14. Ejecutar: npm version patch
+
+15. Ejecutar: npm publish
+
+16. Subir a la rama maestra del repositorio
